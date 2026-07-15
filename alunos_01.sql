@@ -45,7 +45,7 @@ SELECT a.nome, a.idade, c.nome AS curso
 FROM tb_aluno a
 JOIN tb_curso c ON a.id_curso = c.id_curso
 WHERE a.idade >= 18;
--- identificar aluno pela idade
+-- Atualiza idade do aluno de acordo com o nome
 UPDATE tb_aluno
 SET idade = 33
 WHERE nome = 'Luiza';
