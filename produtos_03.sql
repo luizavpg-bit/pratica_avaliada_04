@@ -49,7 +49,7 @@ WHERE preco <= 100;
  
 -- Atualizar o preço de um produto identificando-o por uma condição específica
 UPDATE tb_produto
-SET preco = 120.00
+SET preco = 119.99
 WHERE nome = 'Headphone';
  
 -- Remover um produto pelo nome
