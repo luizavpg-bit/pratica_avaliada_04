@@ -50,7 +50,7 @@ WHERE salario > 4000;
  
 --  Atualizar o salário de um funcionário buscando por uma condição específica
 UPDATE tb_funcionario
-SET salario = 2700.00
+SET salario = 3000.00
 WHERE nome = 'Norton';
  
 --  Remover um funcionário identificando pelo nome
