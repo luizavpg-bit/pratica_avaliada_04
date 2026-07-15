@@ -40,10 +40,6 @@ Este repositório contém a resolução da atividade prática avaliada 04, sobre
 ├── alunos_01.sql
 ├── funcionarios_02.sql
 ├── produtos_03.sql
-├── prints/
-│   ├── ex1_escola_join_curso.png
-│   ├── ex2_empresa_filtro_salario.png
-│   └── ex3_loja_categorias_produtos.png
 └── README.md
 ```
 
